@@ -1,0 +1,27 @@
+
+----- Output of SAFECOP_D42_CNR&Impara_RTMA model with application.c -----
+
+0 of 100
+        SAFE no collision with: braking force 2512[N] delay 71[ms] distance 27[m] speed 15[Km/h]
+
+. . .
+1 of 100
+        DANGER predicted collision with: braking force 3051[N] delay 77[ms] distance 30[m] speed 71[Km/h]
+
+. . .
+2 of 100
+        DANGER predicted collision with: braking force 2601[N] delay 85[ms] distance 27[m] speed 74[Km/h]
+
+. . .
+3 of 100
+        SAFE no collision with: braking force 3667[N] delay 174[ms] distance 24[m] speed 27[Km/h]
+
+. . .
+4 of 100
+        DANGER predicted collision with: braking force 1620[N] delay 128[ms] distance 29[m] speed 76[Km/h]
+
+. . .
+5 of 100
+        SAFE no collision with: braking force 3875[N] delay 45[ms] distance 37[m] speed 24[Km/h]
+
+. . .
