@@ -1,4 +1,6 @@
 
+17.08.18
+
 Once machine learning has been applied at design time , a function is derived to be applicable at run time to infer safety conditions. In this case, the function applies to vehicle platooning and shows how collision prediction is provided according to system conditions monitored at run time. The function based on a set of boolean rules may be easily implemented on the field. [Mon18] shows how the set of run time functions provide forecast with statistical error very close to zero, while keeping the largest set of working conditions.
 
 The sw related with the item form is as follows.
